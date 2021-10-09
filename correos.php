@@ -1,5 +1,5 @@
 <?php
-    $destimatario = 'Hola Huayremiguel@gmail.com'
+    $destimatario = 'Hola Huayremiguel@gmail.com';
     $nombre = $_POST['nombre'];
     $asunto = $_POST ['asunto'];
     $mensaje = $_POST['mensaje'];
